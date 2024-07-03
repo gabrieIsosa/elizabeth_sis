@@ -10,13 +10,13 @@ https://drive.google.com/file/d/1hO1SiNrptLyk7F5NMGA8ZCSGvvpJMl9k/view?usp=shari
 https://drive.google.com/file/d/1O-DEXX2lJZLFH27ivOwMG6nNjuxTo8kz/view?usp=sharing (ejecutable)
 
 ## Controles Jugador 1
-🡩					Movimiento
-🡨					Movimiento
-🡪					Movimiento
-**Espacio**				Disparo
+- 🡩					Movimiento
+- 🡨					Movimiento
+- 🡪					Movimiento
+- **Espacio**				Disparo
 
 ## Controles Jugador 2
-**W**					Movimiento
-**A**					Movimiento
-**D**					Movimiento
-**F**					Disparo
+- **W**					Movimiento
+- **A**					Movimiento
+- **D**					Movimiento
+- **F**					Disparo
